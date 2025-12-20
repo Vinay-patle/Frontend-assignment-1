@@ -410,5 +410,10 @@ your-repo/
 Submit via GitHub Classroom before the deadline. Late submissions will not be accepted.
 
 ---
+Reference Image for the UI:
+
+<img width="766" height="539" alt="Screenshot 2025-12-19 at 7 56 33 PM" src="https://github.com/user-attachments/assets/c4abdbe5-e3d9-4509-b4e7-54b3616da604" />
+
+---
 
 Good luck! We're looking forward to seeing your solution.
